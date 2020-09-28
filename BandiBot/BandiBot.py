@@ -327,4 +327,4 @@ async def on_ready():
     print('Logged in as {0} ({0.id})'.format(bot.user))
 
 bot.add_cog(Music(bot))
-bot.run('NzUzODY1Njg3OTYwNjQ5NzQ5.X1saIg.MoZ4Fu-85OT_0PX51aaZZvVNrmY')
+bot.run('Secret code goes here')
